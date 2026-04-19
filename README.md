@@ -1,14 +1,16 @@
-# Hi there, I'm Salahuddin 👋
+# Hi there, I'm Salahuddin <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="35" height="35" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;IIT+Kharagpur+Dual+Degree+Grad;Building+Scalable+Architectures;High-Performance+Data+Engines" alt="Typing SVG" />
-</a>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;IIT+Kharagpur+Dual+Degree+Grad;Building+Scalable+Architectures;High-Performance+Data+Engines" alt="Typing SVG" />
+  </a>
+</div>
 
 I am a software engineer focused on architecting highly scalable, full-stack applications and high-performance data engines. I enjoy solving complex engineering challenges, from real-time data streaming to automated data analysis. Currently, I'm exploring opportunities for **Full-Stack Developer** and **Implementation Engineer** roles.
 
 ---
 
-### 🚀 Featured Projects
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> Featured Projects
 
 * **Multilingual VC Tool:** A real-time video conferencing application built from the ground up to support seamless cross-linguistic communication. Engineered with a focus on optimized real-time streaming, complex state management, and ultra-low latency across concurrent connections.
 * **Global News Intelligence Platform:** An automated, Python-based intelligence system designed to perform real-time sentiment and impact analysis on global data streams.
@@ -16,7 +18,7 @@ I am a software engineer focused on architecting highly scalable, full-stack app
 
 ---
 
-### 💻 Tech Stack & Tools
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Tech Stack & Tools
 
 **Frontend Architecture:**
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
@@ -38,7 +40,7 @@ I am a software engineer focused on architecting highly scalable, full-stack app
 
 ---
 
-### ⚙️ Core Skills
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Gear" width="25" height="25" /> Core Skills
 
 - **Software Engineering:** Scalable Architecture Design, Full-Stack Web Development, Asynchronous Programming
 - **Data & Streaming:** Real-Time Data Streaming, Automated API Data Extraction, Sentiment Analysis Integration
@@ -46,24 +48,26 @@ I am a software engineer focused on architecting highly scalable, full-stack app
 
 ---
 
-### 🏆 Certifications
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> Certifications
 
-* 🏅 **Full Stack Software Developer Assessment** — *IBM | Coursera*
-* 🏅 **[Insert Certificate Name Here]** — *[Issuing Organization / Platform]*
-* 🏅 **[Insert Certificate Name Here]** — *[Issuing Organization / Platform]*
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Medal" width="20" height="20" /> **Full Stack Software Developer Assessment** — *IBM & Coursera*
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Medal" width="20" height="20" /> **IELTS General Training - C1** — *British Council*
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Medal" width="20" height="20" /> **Python for Data Science, AI & Development** — *IBM & Coursera*
+* <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Military%20Medal.png" alt="Medal" width="20" height="20" /> **Developing Front-End Apps with React** — *IBM & Coursera*
 
 ---
 
-### 📊 GitHub Analytics
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="25" height="25" /> GitHub Analytics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Saking-tech&show_icons=true&theme=radical&hide_border=true" alt="Salahuddin's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Saking-tech&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saking-tech&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 📫 Let's Connect
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Closed%20Mailbox%20with%20Raised%20Flag.png" alt="Mailbox" width="25" height="25" /> Let's Connect
 
 - **LinkedIn:** [linkedin.com/in/salahuddin-akhtar](https://www.linkedin.com/in/salahuddin-akhtar/)
 - **Portfolio / Website:** [Link to your site if you have one]
