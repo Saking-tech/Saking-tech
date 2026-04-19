@@ -1,6 +1,8 @@
 # Hi there, I'm Salahuddin 👋
 
-### Full-Stack Developer | IIT Kharagpur Dual Degree Grad
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=false&vCenter=true&width=600&lines=Full-Stack+Developer;IIT+Kharagpur+Dual+Degree+Grad;Building+Scalable+Architectures;High-Performance+Data+Engines" alt="Typing SVG" />
+</a>
 
 I am a software engineer focused on architecting highly scalable, full-stack applications and high-performance data engines. I enjoy solving complex engineering challenges, from real-time data streaming to automated data analysis. Currently, I'm exploring opportunities for **Full-Stack Developer** and **Implementation Engineer** roles.
 
